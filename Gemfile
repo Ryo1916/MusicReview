@@ -33,7 +33,7 @@ gem 'jquery-rails',      '4.3.1'
 gem 'jquery-turbolinks', '2.1.0'
 
 # images
-gem 'carrierwave',    '1.2.3'
+gem 'carrierwave',    '1.3.2'
 gem 'lazyload-rails', '0.5.0'
 gem 'mini_magick',    '4.9.5'
 
